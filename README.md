@@ -1,4 +1,4 @@
 tweetbot2flickr
 ===============
 
-PHP Scriptto upload photos to Flickr from Tweetbot
+PHP Script to upload photos to Flickr from Tweetbot
